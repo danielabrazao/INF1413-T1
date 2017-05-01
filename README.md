@@ -1,5 +1,5 @@
 # Primeiro trabalho da disciplina de Teste de Software #
-- **Alunas**: 
+- **Aluna**: 
   * Daniela Brazão Maksoud (**[@danielabrazao](https://github.com/danielabrazao)**) — 1321873
 - **Disciplina**: INF1413
 - **Professor**: Arndt Von Staa
