@@ -17,7 +17,7 @@ Nome | Descrição
 - **[Teste de Software (Notas de Aula)](http://www.inf.puc-rio.br/~inf1413/)**
 - **[Como abrir todos os tipos de arquivos no seu Android](http://www.androidpit.com.br/como-abrir-todos-tipos-arquivos-android#fotos)**
 
-### Contribuidor ###
+### Contribuidores ###
 - **Bruno Balbuena**
 - **Leandro Morgado**
 
