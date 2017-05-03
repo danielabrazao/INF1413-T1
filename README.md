@@ -13,6 +13,7 @@ Nome | Descrição
 ------------ | -------------
 **[LICENSE](https://github.com/danielabrazao/INF1413-T1/blob/master/LICENSE)** | Licença do trabalho
 **[README.md](https://github.com/danielabrazao/INF1413-T1/blob/master/README.md)** | Informação geral sobre o trabalho
+**[INF1413_2017-1_Trabalho_1.pdf](https://github.com/danielabrazao/INF1413-T1/blob/master/INF1413_2017-1_Trabalho_1.pdf)** | Enunciado do trabalho
 **[T1_INF1413_2017-1.pdf](https://github.com/danielabrazao/INF1413-T1/blob/master/T1_INF1413_2017-1.pdf)** | Arquivo de texto contendo as tarefas do trabalho
 
 ### Referências ###
